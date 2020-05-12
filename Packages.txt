@@ -1,0 +1,11 @@
+Package: com.haphung.github.io.fakeactiveios
+Version: 1.2
+Section: Addons
+Maintainer: HaPhung <ngocha2006.dd@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/ICCID.deb
+Size: 1600
+MD5sum:
+Description:
+Name:
+Author: HaPhung <ngocha2006.dd@gmail.com>

@@ -1,0 +1,8 @@
+Origin: HaPhung8x
+Label: HaPhung
+Suite: stable
+Version: 1.2
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: HaPhung's Oficial Repo.
