@@ -1,0 +1,11 @@
+Package: com.haphung.github.io.fakeactiveios
+Version: 1.2
+Section: Addons
+Maintainer: HaPhung <ngocha2006.dd@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.haphung.github.fakeactiveios_1.2_iphoneos-arm.deb
+Size: 1610
+MD5sum: a1ed7a1ed8cce77df3dc69220bf27f5e
+Description: Giúp Fake IOS để Active được ICCID sim ghép thần thánh
+Name: Fake Active IOS
+Author: HaPhung <ngocha2006.dd@gmail.com>
